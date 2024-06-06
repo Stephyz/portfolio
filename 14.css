@@ -1,0 +1,19 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.Ss{
+   
+   
+    flex-wrap: wrap;
+    gap: 10px;
+    display: flex ;
+    justify-content: center;
+    
+
+}
+h1{
+    padding: 10px;
+    background-color: cadetblue;
+    
+}

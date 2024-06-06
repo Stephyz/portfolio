@@ -1,0 +1,90 @@
+
+body{
+    background-color: black;
+}
+.Ss{
+   
+   
+    flex-wrap: wrap;
+    gap: 10px;
+    display: flex ;
+    justify-content: center;
+    
+
+}
+h1 {transition: 0.2s;
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 10px ;
+}
+h1:hover{
+    color: forestgreen;
+    cursor: pointer;
+}
+H1{
+   align-items: center; 
+}
+
+
+
+.divizona{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+margin: 0%;
+padding: 20px 200px;
+}
+.divizinha a{
+    background-color: black;
+    color: white;
+display: inline-block;
+border: 1px solid cyan;
+padding: 5px;
+margin: 5px;
+text-decoration: none;
+border-radius: 5px;
+}
+.divizinha h1{
+    text-align: left;
+}
+
+h1{
+    color: aliceblue;
+   text-align: center;
+}
+.divizinha{
+    color: aliceblue;
+    border: 1px solid cyan;
+    padding: 10px;
+    margin: 0%;
+    display: grid;
+}
+ h2{   
+
+     font-size: 30px;
+    color: grey;
+    align-self: center;
+} 
+.divizinha img{
+    width: 100%;
+}
+
+
+
+____responsivo____
+.Cokies {
+    padding: 20px 35px;
+    background-color: gray;
+    display: inline-block;
+    position: fixed;
+  justify-items: center;
+    }
+   .Cokies p{
+        text-decoration: none ;
+    color: white;
+    font-size: 30px;
+  background-color: gray;
+  display: block;
+  text-align: center; 
+  
+    }

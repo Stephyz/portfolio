@@ -1,0 +1,23 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.Ss{
+   
+   
+    flex-wrap: wrap;
+    gap: 10px;
+    display: flex ;
+    justify-content: center;
+    
+
+}
+h1 {transition: 0.2s;
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 10px ;
+}
+h1:hover{
+    color: forestgreen;
+    cursor: pointer;
+}

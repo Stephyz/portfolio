@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+.divizona{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.divizinha a{
+    background-color: black;
+    color: white;
+display: inline-block;
+border: 1px solid cyan;
+padding: 5px;
+margin: 5px;
+text-decoration: none;
+border-radius: 5px;
+
+}
+.divizinha h1{
+    text-align: left;
+}
+
+h1{
+    color: aliceblue;
+   text-align: center;
+}
+.divizinha{
+    color: aliceblue;
+    border: 1px solid cyan;
+    padding: 10px;
+}

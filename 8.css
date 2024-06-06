@@ -1,0 +1,24 @@
+.A{
+    padding: 100px;
+    background-color:gainsboro;
+    width: 65px;
+height: 10px;
+    border: 5px solid black;
+    margin: 5px;
+}
+.B{
+    background-color:mediumpurple;
+   
+    border: 5px solid black;
+padding: 10px;
+margin: 5px;
+width: 400px;
+}
+.C{
+    background-color:gainsboro;
+    padding: 70px;
+    border: 5px solid black;
+    margin: 5px;
+    width: 100px;
+    
+}

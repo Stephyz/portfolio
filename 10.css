@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+p{
+    color: aliceblue;
+}
+.A{
+    margin: 100px;
+    padding: 25px;
+    background-color:blueviolet;
+    display: inline-block;
+    border-right: 20px solid rgb(0, 204, 255);
+ border-left: 20px solid rgb(0, 204, 255);
+ border-top: 1px solid rgb(0, 204, 255);
+ border-bottom:  1px solid rgb(0, 204, 255);;   
+ margin-right: 8px;
+}
+
+.B{
+ margin: 100px;
+    padding: 25px;
+    background-color:blueviolet;
+    display: inline-block;
+    border-right: 20px solid rgb(0, 204, 255);
+ border-left: 20px solid rgb(0, 204, 255);
+ border-top: 1px solid rgb(0, 204, 255);
+ border-bottom:  1px solid rgb(0, 204, 255);;   
+ margin: 8px;
+}
+
+
+
+
