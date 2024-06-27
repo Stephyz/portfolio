@@ -1,15 +1,14 @@
-h1{
-    padding: 10px;
-
+h1 {
+  padding: 10px;
 }
-.relativo{
- top: -20px;
- position: relative;
-background-color: cornflowerblue;
-padding: 5px;
+.relativo {
+  top: -20px;
+  position: relative;
+  background-color: cornflowerblue;
+  padding: 5px;
 }
- div{
-    padding: 10px;
-    border: 5px solid cornflowerblue;
-     position: relative;
- }
+div {
+  padding: 10px;
+  border: 5px solid cornflowerblue;
+  position: relative;
+}
