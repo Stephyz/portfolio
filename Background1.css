@@ -20,8 +20,7 @@ display: flex;
 back
 
 }
-h1{
-    margin:  auto ;
+h1{ margin:  auto ;
 background: white;
 padding: 1rem 2rem
 }
