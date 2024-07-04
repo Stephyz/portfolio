@@ -1,0 +1,27 @@
+.oikawa{
+    background-color: lightseagreen;
+background-image: url(images.jpg);
+height:calc(2000rem/16);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center ;
+display: flex;
+
+
+}
+.kenma{
+    background-color: rgb(0, 58, 55);
+    background-image: url(images.jpg);
+    height:calc(500rem/16);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+display: flex;
+back
+
+}
+h1{
+    margin:  auto ;
+background: white;
+padding: 1rem 2rem
+}
